@@ -11,7 +11,7 @@ App Promotion: Get a link to download the Zomato app via email or phone 📲📩
 HTML: For structuring the content.
 CSS: For styling and layout design 🎨.
 Responsive Design: Using media queries for a mobile-first approach 📱.
-📸 Preview:
+📸 Preview
 Check out the live version of the site here
 https://codewithshlok1403.github.io/Zomato-Clone/04.)ZOMATO%20CLONE/zomato.html
 
