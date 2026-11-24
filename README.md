@@ -6,7 +6,7 @@ This is a Zomato Clone website built using HTML, CSS, and JavaScript. The site a
 Responsive Design: The website is mobile-friendly, adapting seamlessly to different screen sizes 📱💻
 Location-based Search: Users can choose their location (Lucknow, New Delhi, Bangalore, etc.) and search for restaurants, dishes, or cuisines 🔍🌍.
 Popular Localities: Explore the best food spots in and around popular localities like Gomti Nagar, Hazratganj, and more 📍🍽️.
-App Promotion: Get a link to download the Zomato app via email or phone 📲📩.
+App Promotion:- Get a link to download the Zomato app via email or phone 📲📩.
 💻 Technologies Used:
 HTML: For structuring the content.
 CSS: For styling and layout design 🎨.
