@@ -1,6 +1,6 @@
 # Zomato-Clone
 🍕 Zomato Clone 🥡
-This is a Zomato Clone website built using HTML, CSS, and JavaScript. The site aims to replicate the core functionality of the popular Zomato platform where users can discover top restaurants, order food, and explore new places to dine!! 🎉🍴
+This is a Zomato Clone website built using HTML, CSS, and JavaScript. The site aims to replicate the core functionality of the popular Zomato platform where users can discover top restaurants, order food, and explore new places to dine! 🎉🍴
 
 🚀 Features:
 Responsive Design: The website is mobile-friendly, adapting seamlessly to different screen sizes 📱💻
